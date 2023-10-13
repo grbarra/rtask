@@ -1,0 +1,1 @@
+mockgen -source=/home/huawei/Документы/golang/rtask/internal/repository/repository.go -destination=/home/huawei/Документы/golang/rtask/internal/repository/repository_mock.go -package=repository
